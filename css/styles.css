@@ -1,0 +1,32 @@
+
+
+  #per{ 
+      
+    
+    width: 30%;
+
+}
+
+.bg-header-footer {
+background-color: red;
+
+
+}
+
+
+#mail-icon{
+
+  margin-left:2rem;
+}
+
+
+#footer  {
+  color:white;
+
+}
+
+
+[v-cloak] {
+  display:none;
+}
+
